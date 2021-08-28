@@ -1,4 +1,4 @@
-## http://demo.brighter-tomorrows.center
+## http://brighter-tomorrows.center
 #
 #### A solo MERN project by: Todd Trowbridge
 #
